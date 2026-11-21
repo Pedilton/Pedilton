@@ -1,18 +1,44 @@
-# Olá, eu sou o Pedilton Machava 👋
+# Hi, I'm Pedilton Machava 👋
 
-🇲🇿 Moçambicano | 💻 Estudante de Programação | ✨ Apaixonado por Tecnologia
+[[Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D2D2D&center=false&vCenter=true&width=435&lines=Front-end+Developer+in+progress...;Mozambican+%F0%9F%87%B2%F0%9F%87%BF+Building+on+the+web)](https://git.io/typing-svg)
 
-> "Dando meus primeiros passos no front-end, mas já sonhando grande."
+🇲🇿 Mozambican | 💻 Programming Student | ✨ Passionate about Technology
 
-### 🚀 Sobre mim
+> "Taking my first steps in front-end, but already dreaming big."
 
-- 🌱 Atualmente aprendendo: **JavaScript** - entrando de cabeça no mundo da interatividade
-- 💡 Foco: Transformar ideias em páginas bonitas e funcionais
-- 🎯 Objetivo: Me tornar um desenvolvedor Front-End completo
-- ❤️ Amo: Tecnologia, aprender coisas novas e resolver problemas com código
+---
 
-### 🛠️ Minha Stack
+### 🚀 About Me
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+- 🌱 Currently focused on: **JavaScript (ES6+) - Mastering interactivity and logic**
+- 💡 Focus: Turning ideas into beautiful, functional and responsive interfaces
+- 🎯 Goal: To become a complete Front-End Developer
+- ❤️ I love: Technology, continuous learning and solving problems with code
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+**Currently learning:** `DOM Manipulation` `Events` `Programming Logic`
+
+### 📫 Connect With Me
+
+[[LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pediltonmachava)
+[[Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedilton@example.com)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PediltonMachava&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PediltonMachava&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+<div align="center">
+  <sub>Built with dedication in Maputo, Mozambique 🇲🇿</sub>
+</div>
