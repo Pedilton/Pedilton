@@ -1,8 +1,18 @@
-## Oi! Chamo-me Pedilton Machava 👋
+# Olá, eu sou o Pedilton Machava 👋
 
+🇲🇿 Moçambicano | 💻 Estudante de Programação | ✨ Apaixonado por Tecnologia
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Machava-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Machava-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Machava-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+> "Dando meus primeiros passos no front-end, mas já sonhando grande."
+
+### 🚀 Sobre mim
+
+- 🌱 Atualmente aprendendo: **JavaScript** - entrando de cabeça no mundo da interatividade
+- 💡 Foco: Transformar ideias em páginas bonitas e funcionais
+- 🎯 Objetivo: Me tornar um desenvolvedor Front-End completo
+- ❤️ Amo: Tecnologia, aprender coisas novas e resolver problemas com código
+
+### 🛠️ Minha Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
